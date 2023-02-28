@@ -1,7 +1,7 @@
 # alurabooks
 Projeto feito durante o curso de responsividade da Alura
 
-Projeto criado para praticar a metodoloia Mobile-First
+Projeto criado para praticar a metodoloia Mobile-First (HTML & CSS)
 
 Layouts em Tamanhos: 428px, 1024px e 1728px
 
