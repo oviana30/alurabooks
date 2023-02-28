@@ -3,6 +3,8 @@ Projeto feito durante o curso de responsividade da Alura
 
 Projeto criado para praticar a metodoloia Mobile-First
 
+Layouts em Tamanhos: 428px, 1024px e 1728px
+
 Praticas para Reforçar aprendizado:
 
 Acessar e visualizar o projeto no Figma;
